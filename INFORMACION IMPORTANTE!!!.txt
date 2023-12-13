@@ -1,0 +1,1 @@
+Buen dia profesor, en caso de que no le vincule la base de datos es porque me toco cambiar del puerto 3306 a 3307 por errores con mi maquina.
